@@ -76,3 +76,8 @@ button{
 button:hover{
     background: rgb(201, 49, 49);
 }
+footer{
+    width: 100%;
+    text-align: center;
+    color: #777;
+}
